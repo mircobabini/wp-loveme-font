@@ -19,7 +19,7 @@ Developed by [Mirco Babini](http://www.mircobabini.com/), **Wordpress Consultant
 
 == Installation ==
 
-1. Upload `loveme-font/` to the `/wp-content/plugins/` directory
+1. Upload `wp-loveme-font/` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. use font-family: "LoveMe-Regular" in your CSS
 
