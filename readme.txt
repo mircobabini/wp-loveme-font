@@ -1,8 +1,8 @@
 === LoveMe Font ===
 Contributors: mirkolofio
-Donate link: http://mircobabini.com/
+Donate link: http://mircobabini.com/donate/
 Tags: font, style, theme, love
-Requires at least: 3.0.1
+Requires at least: 2.8
 Tested up to: 3.8
 Stable tag: 1.0.0
 License: GPLv2 or later
